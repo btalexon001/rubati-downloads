@@ -30,10 +30,15 @@ Get-FileHash -LiteralPath .\rubati-v1.0.0-beta.1.apk -Algorithm SHA256
 Expected SHA-256:
 
 ```text
-77B0DA13B0F4501A04817C2CF1E376392B1ADA30B8EC97E233E3AC53B271A77E
+5A575F7533793D9E9E6300FB0A81EAED55C2653070ACA8F6E70C6B88B1563A23
 ```
 
-App identity: `ke.co.renta.app`, version `1.0.0`, version code `3`.
+App identity: `ke.co.renta.app`, version `1.0.0`, version code `4`.
+
+[Privacy Policy](https://btalexon001.github.io/rubati-downloads/privacy-policy.html)
+and [Account Deletion](https://btalexon001.github.io/rubati-downloads/account-deletion.html)
+are publicly accessible. Automatic retention cleanup and abandonment notices
+remain disabled; use the monitored support route for requests.
 
 For installation help or privacy/account-deletion requests, contact
 [rubatiapp.ke@gmail.com](mailto:rubatiapp.ke@gmail.com). Do not send passwords

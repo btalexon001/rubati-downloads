@@ -10,11 +10,11 @@ approval after the remaining acceptance and privacy requirements are completed.
 
 ## Planned beta
 
-- Android app: Rubati, version **1.0.0 (3)**.
+- Android app: Rubati, version **1.0.0 (4)**.
 - Package: `ke.co.renta.app`.
 - Android 7.0 or later.
 - APK: `rubati-v1.0.0-beta.1.apk` (66,886,156 bytes).
-- SHA-256: `77b0da13b0f4501a04817c2cf1e376392b1ada30b8ec97e233e3ac53b271a77e`.
+- SHA-256: `5a575f7533793d9e9e6300fb0a81eaed55c2653070aca8f6e70c6b88b1563a23`.
 
 The beta label identifies this distribution; it does not change the APK's
 internal version. The APK is signed and was installed on the owner's Samsung
@@ -31,9 +31,11 @@ repository's file tree.
 
 ## Privacy and support
 
-Public Privacy Policy and Account Deletion webpages are not hosted yet.
-Their approved URLs must be verified before public distribution. No legal
-draft or invented URL is published here.
+- [Privacy Policy](https://btalexon001.github.io/rubati-downloads/privacy-policy.html)
+- [Account Deletion](https://btalexon001.github.io/rubati-downloads/account-deletion.html)
+
+Automatic retention cleanup and abandonment notices remain disabled. The
+published pages explain the retention rules and the monitored request route.
 
 Support and privacy contact: [rubatiapp.ke@gmail.com](mailto:rubatiapp.ke@gmail.com).
 Do not send passwords, identity-document images or payment credentials in
