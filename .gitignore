@@ -1,0 +1,11 @@
+# APKs are Release assets, never repository contents.
+*.apk
+*.aab
+release-assets/
+.env*
+*.jks
+*.keystore
+*.sql
+*.dump
+*.backup
+verification.json
