@@ -1,6 +1,6 @@
 # Rubati 1.0.0 beta 1 — Android build 4
 
-**BETA — unpublished draft. Not approved for public download.**
+**BETA — owner-approved public release. Acceptance limitations remain as disclosed below.**
 
 Prepared release tag: `v1.0.0-beta.1`. The signed Android APK identifies
 itself as Rubati **1.0.0 (4)**, package `ke.co.renta.app`.
@@ -59,5 +59,5 @@ without the owner's explicit approval.
 Installation: [INSTALL.md](https://github.com/btalexon001/rubati-downloads/blob/main/INSTALL.md).
 Support/privacy: [rubatiapp.ke@gmail.com](mailto:rubatiapp.ke@gmail.com).
 
-APK publication requires separate explicit owner approval. No public APK,
-Google Play upload or automatic cleanup activation is part of this preparation.
+Published with explicit owner approval acknowledging the acceptance limitations above.
+This release does not activate automatic cleanup or upload the app to Google Play.

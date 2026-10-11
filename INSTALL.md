@@ -1,7 +1,7 @@
 # Installing Rubati on Android
 
-**Preparation only: the APK release is not publicly available yet.** Use these
-instructions after the owner has published the approved beta.
+**Owner-approved public beta: Rubati 1.0.0 (4).** Follow these installation
+instructions and review the testing limitations in the release notes.
 
 1. Open the [official Rubati releases](https://github.com/btalexon001/rubati-downloads/releases)
    and choose `v1.0.0-beta.1`.

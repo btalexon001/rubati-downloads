@@ -4,11 +4,11 @@ Rubati is a Kenyan rental marketplace for tenants, landlords and agents.
 This separate repository contains download instructions and release notes only.
 It does not contain the application's source code.
 
-**No public APK download is available yet.** Version `v1.0.0-beta.1` is being
-prepared as an unpublished draft. Publication requires the owner's separate
-approval after the remaining acceptance and privacy requirements are completed.
+**Rubati 1.0.0 (4) is available as an owner-approved public beta.**
+Download `v1.0.0-beta.1` from the release list below and review the
+documented acceptance limitations before use.
 
-## Planned beta
+## Public beta
 
 - Android app: Rubati, version **1.0.0 (4)**.
 - Package: `ke.co.renta.app`.
@@ -26,7 +26,7 @@ applicable fees; a free download does not make those services free.
 
 See [installation instructions](INSTALL.md), [release notes](RELEASE_NOTES.md)
 and the [release list](https://github.com/btalexon001/rubati-downloads/releases).
-The APK will be attached to a GitHub Release only, never committed to this
+The APK is attached to a GitHub Release only, never committed to this
 repository's file tree.
 
 ## Privacy and support
